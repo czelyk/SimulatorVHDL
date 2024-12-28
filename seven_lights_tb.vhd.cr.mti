@@ -1,0 +1,18 @@
+{C:/Users/CZELYK/Desktop/IUS DERSLER/Digital Design/project/seven_lights_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/CZELYK/Desktop/IUS DERSLER/Digital Design/project/seven_lights_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity seven_lights_tb
+-- Compiling architecture testbench of seven_lights_tb
+-- Loading entity seven_lights
+
+} {} {}} seven_lights_system.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/CZELYK/Desktop/IUS DERSLER/Digital Design/project/seven_lights_system.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity seven_lights
+-- Compiling architecture Behavioral of seven_lights
+
+} {} {}}
